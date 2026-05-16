@@ -42,14 +42,14 @@
 
 <h2>📈 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChamodLa&show_icons=true&theme=radium" alt="GitHub stats">
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radium" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamodLa&layout=compact&theme=radium" alt="Top Langs">
 </p>
 <p><em>(Note: Replace <code>YOUR_GITHUB_USERNAME</code> in the image <code>src</code> attributes above with your actual GitHub username to render your stats)</em></p>
 
 <h2>📫 Let's Connect</h2>
 <ul>
   <li><strong>Portfolio & Architecture Hub:</strong> <a href="https://abeylab.dev">abeylab.dev</a></li>
-  <li><strong>LinkedIn:</strong> <a href="YOUR_LINKEDIN_URL">Let's connect on LinkedIn</a></li>
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/chamod-abeywickramage">Let's connect on LinkedIn</a></li>
 </ul>

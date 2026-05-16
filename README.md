@@ -42,7 +42,7 @@
 
 <h2>📈 GitHub Stats</h2>
 <p align="center">
-  <img src="https://metrics.lecoq.io/ChamodLa?template=classic&config_timezone=Asia%2FColombo" alt="GitHub Metrics">
+  <img src="https://streak-stats.demolab.com/?user=ChamodLa&theme=radium" alt="GitHub Streak">
 </p>
 
 <h2>📫 Let's Connect</h2>

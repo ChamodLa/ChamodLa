@@ -42,9 +42,7 @@
 
 <h2>📈 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=ChamodLa&show_icons=true&theme=radium" alt="GitHub stats">
-  <br><br>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ChamodLa&layout=compact&theme=radium" alt="Top Langs">
+  <img src="https://metrics.lecoq.io/ChamodLa?template=classic&config_timezone=Asia%2FColombo" alt="GitHub Metrics">
 </p>
 
 <h2>📫 Let's Connect</h2>
